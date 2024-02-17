@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Devraj Vasani</h1>
-<h3 align="center">I’m interested in each and every type of technology and I love to code.</h3>
+<h3 align="center">I'm enthusiastic to learn and explore new tools & technologies for continuous learning and growth in the field of software engineering, as well as excited to solve programming problems by analytical problem solving skillset & teamwork.</h3>
 
-- 🔭 I’m currently working on **frontend web development**
+- 🔭 I’m currently working on **backend web development**
 
 - 👯 I’m looking to collaborate on **Computer Engineering as a freshman in a Government Engineering College.**
 
