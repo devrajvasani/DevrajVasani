@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Devraj Vasani</h1>
+<h1 align="center">Hi, I'm Devraj Vasani</h1>
 <h3 align="center">A passionate Full-Stack Web Developer skilled in building scalable, clean, and efficient web applications using modern technologies.</h3>
 
 - 🔭 I’m currently working as a **Full-Stack Web Developer**  
