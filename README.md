@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full-Stack Web Developer skilled in building scalable, clean, and efficient web applications using modern technologies.</h3>
 
 - 🔭 I’m currently working as a **Full-Stack Web Developer**  
-- 🌱 Actively enhancing my skills in **.NET, React, TypeScript, and PostgreSQL**  
+- 🌱 Actively enhancing my skills in **.NET, React, TypeScript, PostgreSQL, Python and AI/ML**  
 - 💬 Ask me about **web development, backend APIs, clean code, or performance optimization**  
 - 👯 I’m looking to collaborate on **real-world web projects and open-source contributions**  
 - 📫 How to reach me: **[LinkedIn](https://linkedin.com/in/devraj-vasani)**  
