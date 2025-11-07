@@ -5,14 +5,14 @@
 - 🌱 Actively enhancing my skills in **.NET, React, TypeScript, PostgreSQL, Python and AI/ML**  
 - 💬 Ask me about **web development, backend APIs, clean code, or performance optimization**  
 - 👯 I’m looking to collaborate on **real-world web projects and open-source contributions**  
-- 📫 How to reach me: **[LinkedIn](https://linkedin.com/in/devraj-vasani)** | **📧 [Email](mailto:devraj.vasani@outlook.com)**   
+- 📫 How to reach me: **[LinkedIn](https://linkedin.com/in/devrajvasani)** | **📧 [Email](mailto:devraj.vasani@outlook.com)**   
 - ⚡ Fun fact: I love solving complex problems and continuously learning better ways to write clean, maintainable code!
 
 ---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/devraj-vasani" target="blank">
+  <a href="https://linkedin.com/in/devrajvasani" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devraj-vasani" height="30" width="40" />
   </a>
   <a href="mailto:devraj.vasani@outlook.com" target="blank">
