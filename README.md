@@ -15,6 +15,9 @@
   <a href="https://linkedin.com/in/devraj-vasani" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devraj-vasani" height="30" width="40" />
   </a>
+  <a href="mailto:devraj.vasani@outlook.com" target="blank">
+    <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732223.png" alt="devraj.vasani@outlook.com" height="30" width="40" />
+  </a>
 </p>
 
 ---
