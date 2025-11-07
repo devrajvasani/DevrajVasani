@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Devraj Vasani</h1>
 <h3 align="center">A passionate Full-Stack Web Developer skilled in building scalable, clean, and efficient web applications using modern technologies.</h3>
 
-- 🔭 I’m currently working as a **Full-Stack Web Developer**  
+- 🔭 I’m currently working as a **Full-Stack Web Development & AI/ML Developer**
 - 🌱 Actively enhancing my skills in **.NET, React, TypeScript, PostgreSQL, Python and AI/ML**  
 - 💬 Ask me about **web development, backend APIs, clean code, or performance optimization**  
 - 👯 I’m looking to collaborate on **real-world web projects and open-source contributions**  
