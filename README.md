@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://github.com/DevrajVasani/DevrajVasani/blob/main/assets/developer-banner.gif" alt="I'm a Developer" width="100%" />
-</p>
-
 <h1 align="center">Hi, I'm Devraj Vasani</h1>
 <h3 align="center">A passionate Full-Stack Web Developer skilled in building scalable, clean, and efficient web applications using modern technologies.</h3>
 
