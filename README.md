@@ -57,7 +57,7 @@
 
 ---
 
-<h3 align="left">GitHub Stats:</h3>
+<!-- <h3 align="left">GitHub Stats:</h3>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=devrajvasani&show_icons=true&locale=en&layout=compact" alt="devrajvasani" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devrajvasani&" alt="devrajvasani" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devrajvasani&" alt="devrajvasani" /></p> -->
