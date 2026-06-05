@@ -1,81 +1,63 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:8B5CF6&height=180&section=header&text=Devraj%20Vasani&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full-Stack%20%26%20AI%2FML%20Developer&descSize=18&descAlignY=60" alt="header" />
+<h1 align="center">Hi, I'm Devraj Vasani</h1>
+<h3 align="center">A passionate Full-Stack Web Devlopment & AI/ML Developer skilled in building scalable, clean, and efficient web applications using modern technologies.</h3>
 
-<div align="center">
-
-Building scalable, clean, and efficient full-stack web applications with modern technologies.
-
-</div>
-
----
-
-## 👨‍💻 About Me
-
-I'm a **Software Engineer at TatvaSoft Pvt. Ltd.**, where I build scalable, clean, and efficient full-stack web applications using modern technologies.
-
-- 🔭 Currently working with **.NET, React, TypeScript, PostgreSQL, Python and AI/ML**
-- 💡 Interested in **web development, backend APIs, clean code, and performance optimization**
-- 🤝 Open to collaborate on **real-world web projects and open-source contributions**
+- 🔭 I’m currently working as a **Full-Stack Web Development & AI/ML Developer**
+- 🌱 Actively enhancing my skills in **.NET, React, TypeScript, PostgreSQL, Python and AI/ML**  
+- 💬 Ask me about **web development, backend APIs, clean code, or performance optimization**  
+- 👯 I’m looking to collaborate on **real-world web projects and open-source contributions**  
+- 📫 How to reach me: **[LinkedIn](https://linkedin.com/in/devrajvasani)** | **📧 [Email](mailto:devraj.vasani@outlook.com)**   
+- ⚡ Fun fact: I love solving complex problems and continuously learning better ways to write clean, maintainable code!
 
 ---
 
-## 🛠️ Tech Stack
-
-**Languages**
-
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-**Backend**
-
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-
-**Database**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-**AI / ML**
-
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
-<!-- Add a new tool here in the same format:
-![ToolName](https://img.shields.io/badge/ToolName-COLOR?style=for-the-badge&logo=LOGO&logoColor=white)
--->
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://linkedin.com/in/devrajvasani" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devraj-vasani" height="30" width="40" />
+  </a>
+  <a href="mailto:devraj.vasani@outlook.com" target="blank">
+    <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732223.png" alt="devraj.vasani@outlook.com" height="30" width="40" />
+  </a>
+</p>
 
 ---
 
-## 📊 GitHub Stats
+<h3 align="left">Languages and Tools:</h3>
+  <p align="left">
+    <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" alt=".NET" width="40" height="40"/>
+  </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+  </a>
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
+  </a>
+  <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+  </a>
 
-<div align="center">
-
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=devrajvasani&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devrajvasani&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Top Languages" />
-
-  <br/>
-
-  <img height="165" src="https://streak-stats.demolab.com/?user=devrajvasani&hide_border=true&theme=tokyonight" alt="GitHub Streak" />
-
-</div>
+  <!-- 🐍 Python -->
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  </a>
+  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" height="40"/>
+  </a>
+  <a href="https://www.langchain.com/" target="_blank" rel="noreferrer">
+    <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" alt="LangChain" width="40" height="40"/>
+  </a>
+</p>
 
 ---
 
-## 🤝 Connect
+<!-- <h3 align="left">GitHub Stats:</h3>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=devrajvasani&show_icons=true&locale=en&layout=compact" alt="devrajvasani" /></p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/devrajvasani)
-[![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:devraj.vasani@outlook.com)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devrajvasani&" alt="devrajvasani" /></p> -->
