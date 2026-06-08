@@ -23,8 +23,6 @@
 ---
 
 <h3 align="left">Languages and Tools:</h3>
-
-  <!-- 🐍 Python -->
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   </a>
@@ -34,8 +32,7 @@
   <a href="https://www.langchain.com/" target="_blank" rel="noreferrer">
     <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" alt="LangChain" width="40" height="40"/>
   </a>
-  
-  <p align="left">
+  <a align="left">
     <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" alt=".NET" width="40" height="40"/>
   </a>
