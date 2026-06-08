@@ -1,12 +1,12 @@
 <h1 align="center">Hi, I'm Devraj Vasani</h1>
-<h3 align="center">A passionate Full-Stack Web Devlopment & AI/ML Developer skilled in building scalable, clean, and efficient web applications using modern technologies.</h3>
+<h3 align="center">Passionate Data Science and AI/ML enthusiast with experience in Python and software engineering, focused on building scalable data pipelines, data-driven applications, and intelligent solutions using modern technologies.</h3>
 
-- 🔭 I’m currently working as a **Full-Stack Web Development & AI/ML Developer**
-- 🌱 Actively enhancing my skills in **.NET, React, TypeScript, PostgreSQL, Python and AI/ML**  
-- 💬 Ask me about **web development, backend APIs, clean code, or performance optimization**  
+- 🔭 I’m currently working as a **Data Engineering, and AI/ML projects, building scalable data pipelines and intelligent applications.**
+- 🌱 Actively enhancing my skills in **Data Science, AWS, Azzure, Python, SQL, AI/ML, and Distributed Data Processing**  
+- 💬 Ask me about **Data Engineering, Python, SQL, cloud technologies, ETL pipelines, or AI/ML**  
 - 👯 I’m looking to collaborate on **real-world web projects and open-source contributions**  
 - 📫 How to reach me: **[LinkedIn](https://linkedin.com/in/devrajvasani)** | **📧 [Email](mailto:devraj.vasani@outlook.com)**   
-- ⚡ Fun fact: I love solving complex problems and continuously learning better ways to write clean, maintainable code!
+- ⚡ Fun fact: **I'm passionate about turning complex data challenges into scalable solutions and continuously expanding my knowledge of data and cloud technologies!.**
 
 ---
 
@@ -41,6 +41,12 @@
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+  </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
+  </a>
+  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
   </a>
 
   <!-- 🐍 Python -->
